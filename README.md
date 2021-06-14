@@ -1,7 +1,36 @@
-### Hi 🙋, I'm Vipin sharma. 
-	💻 A passionate Web Developer from New Delhi, India. 
-	🔭 I’m currently working on my Own.
-	❤️ I love to research, design wireframes and prototypes, to code, build websites and web applications.
-	:octocat: I am open to collaborate with other Web Creators.
-	📚 Learning new things, self driven, and friendly.😃
-	💎  Web development, BBA Managment Professinal, Digital Marketing, Social Media Marketing. 
+<h3>
+  Hi there 🙋, I'm Vipin sharma.
+</h3>
+
+<h2>
+    💻 A passionate Web Developer from New Delhi, India.
+</h2><br>    
+
+ <p>
+It's been more than a year since I started Learning Web Developing.
+And now this Learning Journey has become even more Interesting and Sincere. <br><br>
+🔭 I’m currently towards the Interesting things. <br>
+💬 Ask me about CSS, Javascript, Node.js<br>
+📫 Reach me at vipinsharrmaa@gmail.com<br>
+👨‍💻 Have a look on My Projects at  <br>
+⚡ Fun fact- I am a Professionally a Management Student. 
+
+    "Happy World"
+</p>
+
+<!-- <style>
+  body{ 
+ color: white;
+  }
+  h2{ 
+     text-align: center;
+  }
+  h3{ 
+      text-align: center;
+
+  }
+  p{ 
+      padding-top: 40px;
+  }
+
+</style> -->
