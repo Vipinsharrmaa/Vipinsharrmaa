@@ -1,5 +1,5 @@
 <h3>
-  Hi there 🙋, I'm Vipin sharma.
+  "Happy World" 🙋, I'm Vipin sharma.
 </h3>
 
 <h2>
@@ -15,22 +15,5 @@ And now this Learning Journey has become even more Interesting and Sincere. <br>
 👨‍💻 Have a look on My Projects at  <br>
 ⚡ Fun fact- I am a Professionally a Management Student. 
 
-    "Happy World"
-</p>
+    
 
-<!-- <style>
-  body{ 
- color: white;
-  }
-  h2{ 
-     text-align: center;
-  }
-  h3{ 
-      text-align: center;
-
-  }
-  p{ 
-      padding-top: 40px;
-  }
-
-</style> -->
