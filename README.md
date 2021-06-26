@@ -13,7 +13,7 @@ And now this Learning Journey has become even more Interesting and Sincere. <br>
 💬 Ask me about CSS, Javascript, Node.js<br>
 📫 Reach me at vipinsharrmaa@gmail.com<br>
 👨‍💻 Have a look on My Projects at  <br>
-⚡ Fun fact- I am a Professionally a Management Student. 
+⚡ Fun fact- I am Professionally a Management Student. 
 
     
 
