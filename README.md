@@ -3,7 +3,7 @@
 </h3>
 
 <h2>
-    💻 A passionate Web Developer from New Delhi, India.
+    💻 Self-taught Web Developer from New Delhi, India.
 </h2><br>    
 
  <p>
