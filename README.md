@@ -10,7 +10,7 @@
 It's been more than a year since I started Learning Web Developing.
 And now this Learning Journey has become even more Interesting and Sincere. <br><br>
 🔭 I’m currently towards the Interesting things. <br>
-💬 Ask me about CSS, Javascript, Node.js<br>
+💬 Ask me about CSS, Javascript, Node.js, React.js, MongoDB, all in all full stack developement.<br>
 📫 Reach me at vipinsharrmaa@gmail.com<br>
 👨‍💻 Have a look on My Projects at  <br>
 ⚡ Fun fact- I am Professionally a Management Student. 
