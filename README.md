@@ -1,19 +1,20 @@
-<h3>
-  "Hello World" 🙋, I'm Vipin sharma.
-</h3>
+# Hello, I'm Vipin Sharma! 👋
 
-<h2>
-    💻 Self-taught Web Developer from New Delhi, India.
-</h2><br>    
+Welcome to my coding corner! 🚀
 
- <p>
-It's been more than a year since I started Learning Web Developing.
-And now this Learning Journey has become even more Interesting and Sincere. <br><br>
-🔭 I’m currently towards the Interesting things. <br>
-💬 Ask me about CSS, Javascript, Node.js, React.js, MongoDB, Express JS, REST APIs, & all in all full stack developement.<br>
-📫 Reach me at vipinsharrmaa@gmail.com<br>
-👨‍💻 Have a look on My Projects at  <br>
-⚡ Fun fact- I am Professionally a Management Student. 
+🌱 It's been an exciting journey of over a year since I embarked on the path of web development. What started as a simple curiosity has grown into a profound and sincere passion.
+
+🔭 Currently, I'm immersed in exploring the fascinating aspects of technology and innovation, always on the lookout for the next interesting challenge.
+
+💬 Feel free to reach out to me for discussions on CSS, JavaScript, Node.js, React.js, MongoDB, Express.js, REST APIs, and all things related to full-stack development.
+
+📫 You can get in touch with me at vipinsharrmaa@gmail.com. Let's connect and collaborate!
+
+👨‍💻 Check out my projects [repositeries](https://github.com/Vipinsharrmaa?tab=repositories) to see what I've been working on.
+
+⚡ Fun fact: Despite my professional background in management, I've discovered my true passion lies in the dynamic world of web development.
+
+Happy coding! 🚀✨
 
     
 
